@@ -4,7 +4,7 @@ import './ExpenseForm.css';
 * @author
 * @function ExpenseForm
 **/
-//test2
+//test
 const ExpenseForm = (props) => {
   const [enteredTitle,setEnteredTitle] = useState(''); // 컴포넌트 함수의 수명 주기와는 별개인 변수에 저장
   const [enteredAmount,setEnteredAmount] = useState('');
